@@ -1,0 +1,2 @@
+#!/bin/bash
+echo "versionc" | tr -dc c
