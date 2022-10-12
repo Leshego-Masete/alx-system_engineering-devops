@@ -1,1 +1,1 @@
-Hexadecimal readme
+strong encryption readme
